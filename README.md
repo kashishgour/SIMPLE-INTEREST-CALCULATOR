@@ -2,7 +2,7 @@
 
 LIVE DEMO:-
 
-http://192.168.43.242:5500/resume/index2.html
+https://kashishgour.github.io/SIMPLE-INTEREST-CALCULATOR/
 
 SECTIONS:-
 
